@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjR6dXdydzdsbzc0NWh4c3Q3aW15MnEwajhjOTB3c29mMGJsOTE0biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUPGchIQ3svsVKNg4g/giphy.gif" />
 
-<!--
-**b2-3c/b2-3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1> ⚡ Welcome to my Profile </h1>
 
-Here are some ideas to get you started:
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=b2-3c.b2-3c&left_color=gray&right_color=blue" />
+</div>
+
+
