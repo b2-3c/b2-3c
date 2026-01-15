@@ -6,7 +6,7 @@
   <a href="https://discord.gg/kayRkyfSmM">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href=""https://www.youtube.com/@b2_3c>
+  <a href="https://www.youtube.com/@b2_3c">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a>
 
